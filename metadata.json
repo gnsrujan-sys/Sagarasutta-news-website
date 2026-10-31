@@ -1,0 +1,6 @@
+{
+  "name": "Sagarasutta - ಸಾಗರಸುತ್ತಾ Kannada News Portal & Live Desk",
+  "description": "ಸಾಗರಸುತ್ತಾ (Sagarasutta) - Professional Kannada Online News Portal with Owner-Only Live News Desk, Blogspot & YouTube sync, and mobile-first newspaper layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

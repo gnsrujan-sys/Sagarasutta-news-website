@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/youtube-feed",
+      "destination": "https://www.youtube.com/feeds/videos.xml?channel_id=UChuF7jlHDQCXK7Q_TbCeGyw"
+    },
+    {
+      "source": "/api/blogspot-feed",
+      "destination": "https://sagarasuttaweeklypaper.blogspot.com/feeds/posts/default?alt=json"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
